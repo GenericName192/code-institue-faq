@@ -1,0 +1,10 @@
+/* remove all default styles added by browsers */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+section {
+  padding: 3%;
+}
