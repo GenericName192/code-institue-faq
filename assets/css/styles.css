@@ -12,3 +12,11 @@ section {
 .guide-heading {
   padding: 15px;
 }
+
+.resources-page > h2 {
+  padding-top: 3%;
+}
+
+.resources-page {
+  margin-top: 5%;
+}
